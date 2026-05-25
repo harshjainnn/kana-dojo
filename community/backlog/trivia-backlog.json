@@ -276,7 +276,7 @@
       "Ikebana"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -823,7 +823,9 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "abhijeetgorhe26",
+    "completedPR": 18297
   },
   {
     "id": 60,
