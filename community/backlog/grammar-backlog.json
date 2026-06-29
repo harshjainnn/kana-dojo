@@ -453,7 +453,9 @@
     "id": 76,
     "text": "\"〜ことになっている\" means \"it is decided/arranged that...\".",
     "completed": false,
-    "issued": true
+    "issued": false,
+    "completedBy": "amiteshx08",
+    "completedPR": 22428
   },
   {
     "id": 77,
